@@ -1,3 +1,2 @@
-# k-classify
-KNN.py
-数字识别 
+#机器学习 
+数字识别 knn 
